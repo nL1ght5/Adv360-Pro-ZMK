@@ -87,5 +87,15 @@
             >;
         };
 
+        layer_BEAKL {
+            bindings = <
+ &trans  &trans             &trans     &trans  &trans   &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans   &kp Q              &kp H      &kp O   &kp U    &kp X            &trans  &trans   &kp G   &kp C   &kp M   &kp R   &kp V  &trans
+ &trans   &kp Y              &kp I      &kp E   &kp A  &kp DOT            &trans  &trans  &trans                  &trans  &trans  &trans   &kp D   &kp S   &kp T   &kp N   &kp B  &trans
+ &trans   &kp J  &kp DOUBLE_QUOTES  &kp COMMA   &kp K  &kp SQT            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans   &kp W   &kp F   &kp L   &kp P   &kp Z  &trans
+ &trans  &trans             &trans     &trans  &trans   &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+            >;
+        };
+
     };
 };
