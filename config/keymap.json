@@ -5,10 +5,10 @@
   "layer_names": [
     "base",
     "BEAKL",
-    "fn"
+    "fn",
     "keypad",
     "mod",
-    "beakl sym",
+    "beakl sym"
   ],
   "layers": [
     [
