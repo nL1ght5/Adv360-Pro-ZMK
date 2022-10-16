@@ -63,7 +63,7 @@
  &trans  &trans    &trans     &trans     &trans  &trans             &none   &none  &trans         &trans  &trans   &trans   &trans   &trans
  &trans  &trans  &sk LALT  &sk LCTRL  &sk LSHFT  &trans             &none  &trans  &trans                          &trans   &trans    &none  &trans  &sk LSHFT  &sk RCTRL  &sk RALT  &trans  &trans
  &trans  &trans    &trans     &trans   &sk LGUI  &trans             &none   &none  &trans          &none   &none   &trans    &none    &none  &trans   &sk RGUI     &trans    &trans  &trans  &trans
- &trans  &trans    &trans     &trans     &trans  &trans            &trans  &trans  &trans  &kp BACKSPACE  &trans   &trans   &trans   &trans  &trans     &trans
+ &trans  &trans    &trans     &trans     &trans   &mo 5            &trans  &trans  &trans  &kp BACKSPACE   &mo 5   &trans   &trans   &trans  &trans     &trans
             >;
         };
 
