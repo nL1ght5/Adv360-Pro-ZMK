@@ -57,16 +57,6 @@
             >;
         };
 
-        layer_fn {
-            bindings = <
- &kp F1  &kp F2    &kp F3     &kp F4     &kp F5  &kp F6            &tog 1   &mo 3  &kp F7         &kp F8  &kp F9  &kp F10  &kp F11  &kp F12
- &trans  &trans    &trans     &trans     &trans  &trans             &none   &none  &trans         &trans  &trans   &trans   &trans   &trans
- &trans  &trans  &sk LALT  &sk LCTRL  &sk LSHFT  &trans             &none  &trans  &trans                          &trans   &trans    &none  &trans  &sk LSHFT  &sk RCTRL  &sk RALT  &trans  &trans
- &trans  &trans    &trans     &trans   &sk LGUI  &trans             &none   &none  &trans          &none   &none   &trans    &none    &none  &trans   &sk RGUI     &trans    &trans  &trans  &trans
- &trans  &trans    &trans     &trans     &trans   &mo 5            &trans  &trans  &trans  &kp BACKSPACE   &mo 5   &trans   &trans   &trans  &trans     &trans
-            >;
-        };
-
         layer_mod {
             bindings = <
   &none  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3     &bt BT_SEL 4                             &none       &trans  &bt BT_SEL 0  &bt BT_SEL 1     &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                   &none
@@ -94,6 +84,16 @@
  &trans  &kp BSLH  &kp LEFT_PARENTHESIS   &kp MINUS  &kp RIGHT_PARENTHESIS   &kp PLUS            &trans  &trans  &trans                                          &trans  &trans  &trans  &kp PERCENT  &kp LEFT_BRACE  &kp SEMICOLON  &kp RIGHT_BRACE  &kp EXCLAMATION  &trans
  &trans    &trans              &kp STAR   &kp COLON               &kp FSLH  &kp ENTER            &trans  &trans  &trans            &trans     &trans             &trans  &trans  &trans       &trans        &kp PIPE      &kp TILDE    &kp AMPERSAND           &trans  &trans
  &trans    &trans                &trans      &trans                 &trans     &trans            &trans  &trans  &trans            &trans     &trans             &trans  &trans  &trans       &trans          &trans
+            >;
+        };
+
+        layer_fn {
+            bindings = <
+ &kp F1  &kp F2    &kp F3     &kp F4     &kp F5  &kp F6            &tog 1   &mo 3  &kp F7         &kp F8  &kp F9  &kp F10  &kp F11  &kp F12
+ &trans  &trans    &trans     &trans     &trans  &trans             &none   &none  &trans         &trans  &trans   &trans   &trans   &trans
+ &trans  &trans  &sk LALT  &sk LCTRL  &sk LSHFT  &trans             &none  &trans  &trans                          &trans   &trans    &none  &trans  &sk LSHFT  &sk RCTRL  &sk RALT  &trans  &trans
+ &trans  &trans    &trans     &trans   &sk LGUI  &trans             &none   &none  &trans          &none   &none   &trans    &none    &none  &trans   &sk RGUI     &trans    &trans  &trans  &trans
+ &trans  &trans    &trans     &trans     &trans   &mo 5            &trans  &trans  &trans  &kp BACKSPACE   &mo 5   &trans   &trans   &trans  &trans     &trans
             >;
         };
 
