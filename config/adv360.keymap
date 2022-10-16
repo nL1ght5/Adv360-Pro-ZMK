@@ -79,11 +79,11 @@
 
         layer_BEAKL {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans   &none   &none   &none   &none   &none            &trans  &trans   &none   &none   &none   &none  &trans  &trans
- &trans   &none   &none   &none   &none   &none            &trans  &trans  &trans                  &trans  &trans  &trans   &none   &none   &none   &none  &trans  &trans
- &trans   &none   &none   &none   &none   &none            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans   &none   &none   &none   &none  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans    &trans     &trans  &trans          &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans   &kp Q     &kp H      &kp O   &kp U           &kp X            &trans  &trans   &kp G   &kp C   &kp M   &kp R   &kp Z  &trans
+ &trans   &kp Y     &kp I      &kp E   &kp A      &kp PERIOD            &trans  &trans  &trans                  &trans  &trans  &trans   &kp D   &kp S   &kp T   &kp N   &kp B  &trans
+ &trans   &kp J  &kp BSLH  &kp COMMA   &kp K  &kp APOSTROPHE            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans   &kp W   &kp F   &kp L   &kp P   &kp V  &trans
+ &trans  &trans    &trans     &trans  &trans          &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
