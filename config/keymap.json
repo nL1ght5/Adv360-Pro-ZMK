@@ -42,11 +42,11 @@
        "&trans",  "&kp J", "&kp BSLH", "&kp COMMA",  "&kp K", "&kp APOSTROPHE",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",  "&kp W",  "&kp F",  "&kp L",  "&kp P",  "&kp V", "&trans",
        "&trans", "&trans",   "&trans",    "&trans", "&trans",         "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
     ], [
-       "&trans",   "&trans",               "&trans",    "&trans",                "&trans",   "&trans",           "&trans", "&trans", "&trans",        "&kp TILDE", "&kp CARET",             "&none", "&trans", "&trans",
-       "&trans",   "&trans",        "&kp LESS_THAN", "&kp EQUAL",      "&kp GREATER_THAN",   "&trans",           "&trans", "&trans", "&trans", "&kp LEFT_BRACKET", "&kp MINUS", "&kp RIGHT_BRACKET", "&trans", "&trans",
-       "&trans", "&kp BSLH", "&kp LEFT_PARENTHESIS", "&kp MINUS", "&kp RIGHT_PARENTHESIS", "&kp PLUS",           "&trans", "&trans", "&trans",                                             "&trans", "&trans", "&trans", "&kp PERCENT", "&kp LEFT_BRACE", "&kp SEMICOLON", "&kp RIGHT_BRACE", "&trans", "&trans",
-       "&trans",   "&trans",             "&kp STAR", "&kp COLON",              "&kp FSLH",   "&trans",           "&trans", "&trans", "&trans",           "&trans",    "&trans",            "&trans", "&trans", "&trans",      "&trans",       "&kp PIPE",     "&kp TILDE",   "&kp AMPERSAND", "&trans", "&trans",
-       "&trans",   "&trans",               "&trans",    "&trans",                "&trans",   "&trans",           "&trans", "&trans", "&trans",           "&trans",    "&trans",            "&trans", "&trans", "&trans",      "&trans",         "&trans"
+       "&trans",  "&kp TAB",               "&kp AT", "&kp DOLLAR",              "&kp HASH",   "&kp TAB",           "&trans", "&trans", "&trans",        "&kp TILDE", "&kp CARET",         "&kp GRAVE", "&trans", "&trans",
+       "&trans",  "&kp TAB",        "&kp LESS_THAN",  "&kp EQUAL",      "&kp GREATER_THAN",    "&trans",           "&trans", "&trans", "&trans", "&kp LEFT_BRACKET", "&kp MINUS", "&kp RIGHT_BRACKET", "&trans", "&trans",
+       "&trans", "&kp BSLH", "&kp LEFT_PARENTHESIS",  "&kp MINUS", "&kp RIGHT_PARENTHESIS",  "&kp PLUS",           "&trans", "&trans", "&trans",                                             "&trans", "&trans", "&trans", "&kp PERCENT", "&kp LEFT_BRACE", "&kp SEMICOLON", "&kp RIGHT_BRACE", "&kp EXCLAMATION", "&trans",
+       "&trans",   "&trans",             "&kp STAR",  "&kp COLON",              "&kp FSLH", "&kp ENTER",           "&trans", "&trans", "&trans",           "&trans",    "&trans",            "&trans", "&trans", "&trans",      "&trans",       "&kp PIPE",     "&kp TILDE",   "&kp AMPERSAND",          "&trans", "&trans",
+       "&trans",   "&trans",               "&trans",     "&trans",                "&trans",    "&trans",           "&trans", "&trans", "&trans",           "&trans",    "&trans",            "&trans", "&trans", "&trans",      "&trans",         "&trans"
     ]
   ]
 }
