@@ -22,7 +22,7 @@
        "&trans",  "&kp Q",    "&kp H",     "&kp O",  "&kp U",          "&kp X",           "&trans", "&trans",  "&kp G",  "&kp C",  "&kp M",  "&kp R",  "&kp Z", "&trans",
        "&trans",  "&kp Y",    "&kp I",     "&kp E",  "&kp A",     "&kp PERIOD",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",  "&kp D",  "&kp S",  "&kp T",  "&kp N",  "&kp B", "&trans",
        "&trans",  "&kp J", "&kp BSLH", "&kp COMMA",  "&kp K", "&kp APOSTROPHE",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",  "&kp W",  "&kp F",  "&kp L",  "&kp P",  "&kp V", "&trans",
-       "&trans", "&trans",   "&trans",    "&trans", "&trans",          "&mo 2",           "&trans", "&trans", "&trans", "&trans",  "&mo 2", "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&trans",   "&trans",    "&trans", "&trans",         "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
     ], [
        "&kp F1", "&kp F2",   "&kp F3",    "&kp F4",    "&kp F5", "&kp F6",           "&tog 1",  "&mo 3", "&kp F7",        "&kp F8", "&kp F9", "&kp F10", "&kp F11", "&kp F12",
        "&trans", "&trans",   "&trans",    "&trans",    "&trans", "&trans",            "&none",  "&none", "&trans",        "&trans", "&trans",  "&trans",  "&trans",  "&trans",
