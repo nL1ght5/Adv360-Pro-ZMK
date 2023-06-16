@@ -49,8 +49,8 @@
             bindings = <
 &trans      &trans          &trans       &trans        &trans          &trans  &trans  &trans  &trans  &trans   &trans  &trans  &trans  &trans
 &trans       &kp Q           &kp H      &lt 2 O         &kp U           &kp X  &trans  &trans   &kp G   &kp C  &lt 2 M   &kp R   &kp Z  &trans
-&trans  &hm LGUI Y  &hm LEFT_ALT I  &hm LCTRL E  &hm LSHIFT A      &kp PERIOD  &trans  &trans  &trans                   &trans  &trans  &trans   &kp F  &hm RSHIFT S  &hm RCTRL T  &hm LEFT_ALT N  &hm RGUI B  &trans
-&trans       &kp J   &hm RALT BSLH    &kp COMMA       &lt 5 K  &kp APOSTROPHE  &trans  &trans  &trans  &trans   &trans  &trans  &trans  &trans   &kp W       &lt 5 D        &kp L      &hm RALT P       &kp V  &trans
+&trans  &hm LGUI Y  &hm LEFT_ALT I  &hm LCTRL E  &hm LSHIFT A      &kp PERIOD  &trans  &trans                       &trans  &trans   &kp F  &hm RSHIFT S  &hm RCTRL T  &hm LEFT_ALT N  &hm RGUI B  &trans
+&trans       &kp J   &hm RALT BSLH    &kp COMMA       &lt 5 K  &kp APOSTROPHE  &trans  &trans       &trans  &trans       &kp W       &lt 5 D        &kp L      &hm RALT P       &kp V  &trans
 &trans      &trans          &trans       &trans        &trans          &trans  &trans  &trans  &trans  &trans   &trans  &trans  &trans  &trans  &trans        &trans
             >;
         };
