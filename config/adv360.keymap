@@ -56,11 +56,11 @@
 
         mod {
             bindings = <
-&none  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4           &trans                                                          &trans  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &none
+&none  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                  &trans                                                                 &trans  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &none
 &none         &none         &none         &none         &none         &none  &rgb_ug RGB_MEFS_CMD 5                                                 &rgb_ug RGB_MEFS_CMD 5         &none         &none         &none         &none         &none  &none
-&none         &none         &none         &none         &none         &none      &bootloader  &none  &bt BT_CLR      &bt BT_CLR       &none      &bootloader         &none         &none         &none         &none         &none  &none
-&none         &none         &none         &none         &none         &none                               &none           &none                                      &none         &none         &none         &none         &none  &none
-&none         &none         &none         &none         &none                          &none  &none       &none           &none  &bl BL_TOG  &rgb_ug RGB_TOG                  &bl BL_INC    &bl BL_DEC         &none         &none  &none
+&none         &none         &none         &none         &none         &none             &bootloader  &none  &bt BT_CLR      &bt BT_CLR       &none             &bootloader         &none         &none         &none         &none         &none  &none
+&none         &none         &none         &none         &none         &none                                      &none           &none                                             &none         &none         &none         &none         &none  &none
+&none         &none         &none         &none         &none                                 &none  &none       &none           &none  &bl BL_TOG         &rgb_ug RGB_TOG                  &bl BL_INC    &bl BL_DEC         &none         &none  &none
             >;
         };
 
@@ -74,13 +74,13 @@
             >;
         };
 
-        layer_5 {
+        BEAKL {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+&trans      &trans              &trans       &trans            &trans          &trans  &trans                                      &trans  &trans             &trans       &trans           &trans           &trans  &trans
+&trans       &kp Q               &kp H      &lt 2 O             &kp U           &kp X  &trans                                      &trans   &kp G              &kp C      &lt 2 M            &kp R            &kp Z  &trans
+&trans  &hm LGUI Y          &hm LALT I  &hm LCTRL E  &hm LEFT_SHIFT A         &kp DOT  &trans  &trans  &trans      &trans  &trans  &trans   &kp F  &hm RIGHT_SHIFT S  &hm RCTRL T       &hm LALT N  &hm RIGHT_GUI B  &trans
+&trans       &kp J  &hm RALT BACKSLASH    &kp COMMA           &lt 4 K  &kp APOSTROPHE                  &trans      &trans                   &kp W            &lt 4 D        &kp L  &hm RIGHT_ALT P            &kp V  &trans
+&trans      &trans              &trans       &trans            &trans                  &trans  &trans  &trans      &trans  &trans  &trans                     &trans       &trans           &trans           &trans  &trans
             >;
         };
     };
