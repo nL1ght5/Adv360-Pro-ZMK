@@ -40,7 +40,7 @@
 &kp EQUAL      &kp N1          &kp N2       &kp N3        &kp N4     &kp N5    &mo 4    &mo 4        &kp N6         &kp N7     &kp N8         &kp N9    &kp N0  &kp MINUS
   &kp TAB       &kp Q           &kp W      &lt 2 E         &kp R      &kp T    &none    &none         &kp Y          &kp U    &lt 2 I          &kp O     &kp P   &kp BSLH
   &kp ESC  &hm LGUI A  &hm LEFT_ALT S  &hm LCTRL D  &hm LSHIFT F      &kp G   &tog 3  &kp ESC  &kp LEFT_GUI                            &sk RIGHT_GUI   &sk ESC     &tog 1     &kp H  &hm RSHIFT J  &hm RCTRL K   &hm LEFT_ALT L  &hm RGUI SEMICOLON    &kp SQT
-&kp LSHFT       &kp Z      &hm RALT X        &kp C       &lt 5 V      &kp B    &none    &none      &kp HOME          &none      &none      &kp PG_UP     &none      &none     &kp N       &lt 5 M    &kp COMMA  &hm RALT PERIOD            &kp FSLH  &kp RSHFT
+&kp LSHFT       &kp Z      &hm RALT X        &kp C       &lt 5 V      &kp B              &kp HOME                      &kp PG_UP                &kp N       &lt 5 M    &kp COMMA  &hm RALT PERIOD            &kp FSLH  &kp RSHFT
     &mo 2   &kp GRAVE        &kp CAPS     &kp LEFT     &kp RIGHT  &kp ENTER  &kp TAB  &kp END     &kp PG_DN  &kp BACKSPACE  &kp SPACE         &kp UP  &kp DOWN   &kp LBKT  &kp RBKT         &mo 2
             >;
         };
